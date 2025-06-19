@@ -27,20 +27,19 @@
 
 ---
 
-### 🧪 Projects
+### 🧪 Project
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎮 [Quiz App](https://github.com/your-username/quiz-app) | A fun, animated quiz built with React & Framer Motion | React, Zustand, Tailwind |
-| 🌾 [AgroConnect](https://github.com/your-username/agroconnect) | Agriculture support platform for farmers | HTML, CSS, JS, PHP |
+| 🎮 [Quiz-App](https://github.com/akashjasrotia/Quiz-App) | A fun, animated quiz built with React & Framer Motion | React, Zustand, Tailwind |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashjasrotia&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashjasrotia&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
 ---
