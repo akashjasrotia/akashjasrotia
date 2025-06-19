@@ -46,8 +46,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-📧 Email: your.email@example.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/akash-jasrotia-971168338/))  
+📧 Email: akashjasrotia2005@gmail.com
 
 ---
 
