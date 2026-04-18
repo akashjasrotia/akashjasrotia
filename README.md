@@ -47,10 +47,5 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-jasrotia-971168338/)  
-📧 Email: your.email@example.com
+📧 Email: akashjasrotia2005@gmail.com 
 
----
-
-### 💡 Fun Fact
-
-> I can fold a paper 7 times and still call it a bug fix. 😄
